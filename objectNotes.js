@@ -64,29 +64,29 @@ let Darwin = {
 }
 console.log(Darwin);
 
-let Cesar = {
-    Name: 'Cesar',
+let Zezar = {
+    Name: 'Zezar',
     Height: '5,9',
     age: 14,
     Shoe: 10,
     Hair:'Long',
 }
-console.log(Cesar);
+console.log(Zezar);
 
-let Erik = {
-    Name: 'Erik',
+let Irick = {
+    Name: 'Irick',
     Height: '5,3',
     age: 15,
     Shoe: 8,
     Hair:'Bowl cut',
 }
-console.log(Erik);
+console.log(Irick);
 
-let Diego = {
-    Name: 'Darwin',
+let Dora = {
+    Name: 'Dora',
     Height: '5,1',
     age: 14,
     Shoe: 6,
     Hair:'Curly',
 }
-console.log(Diego);
+console.log(Dora);
