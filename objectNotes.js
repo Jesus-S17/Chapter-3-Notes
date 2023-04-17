@@ -59,7 +59,8 @@ let Darwin = {
     Name: 'Darwin',
     Height: '5,6',
     age: 14,
-    size: 'medium',
+    Shoe: 10,
+    Hair:'Emo',
 }
 console.log(Darwin);
 
@@ -67,7 +68,8 @@ let Cesar = {
     Name: 'Cesar',
     Height: '5,9',
     age: 14,
-    size: 'medium',
+    Shoe: 10,
+    Hair:'Long',
 }
 console.log(Cesar);
 
@@ -75,7 +77,8 @@ let Erik = {
     Name: 'Erik',
     Height: '5,3',
     age: 15,
-    size: 'medium',
+    Shoe: 8,
+    Hair:'Bowl cut',
 }
 console.log(Erik);
 
@@ -83,6 +86,7 @@ let Diego = {
     Name: 'Darwin',
     Height: '5,1',
     age: 14,
-    size: 'medium',
+    Shoe: 6,
+    Hair:'Curly',
 }
 console.log(Diego);
