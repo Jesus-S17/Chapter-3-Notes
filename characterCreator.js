@@ -54,11 +54,11 @@ function createChar(character, list){
 function displayChar(char){
     console.log('-----------------------');
     console.log(`Name: ${char.name}`);
-    console.log(`Name: ${char.strength}`);
-    console.log(`Name: ${char.dexerity}`);
-    console.log(`Name: ${char.constitution}`);
-    console.log(`Name: ${char.intelligence}`);
-    console.log(`Name: ${char.wisdom}`);
-    console.log(`Name: ${char.charisma}`);
+    console.log(`STR: ${char.strength}`);
+    console.log(`DEX: ${char.dexerity}`);
+    console.log(`CON: ${char.constitution}`);
+    console.log(`INT: ${char.intelligence}`);
+    console.log(`WIS: ${char.wisdom}`);
+    console.log(`CHA: ${char.charisma}`);
     console.log('-------------------------');
 }
